@@ -1,0 +1,26 @@
+[
+    {
+        "image" : "img/team-1.jpg" ,
+        "name" : "David Darwin" ,
+        "description" : "5 năm kinh nghiệm" 
+    } ,
+
+    {
+        "image" : "img/team-2.jpg" ,
+        "name" : "Emma Ford" ,
+        "description" : "4 năm kinh nghiệm" 
+    } ,
+
+    {
+        "image" : "img/team-3.jpg" ,
+        "name" : "James Chichester" ,
+        "description" : "4 năm kinh nghiệm" 
+    } ,
+
+    {
+        "image" : "img/team-4.jpg" ,
+        "name" : "Emily Jackson" ,
+        "description" : "3 năm kinh nghiệm" 
+    } 
+
+]

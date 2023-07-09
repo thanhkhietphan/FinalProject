@@ -1,0 +1,21 @@
+[
+    {
+        "icon" : "fa-solid fa-shield-halved fa-3x text-white" , 
+        "title" : "An Toàn" , 
+        "description" : "Dặn dò, đào tạo an toàn trước khi khởi hành, trang bị hệ thống phương tiện bảo hộ, dụng cụ đi rừng đến từ những thương hiệu hàng đầu."
+    } ,
+
+    {
+        "icon" : "fa-solid fa-seedling fa-3x text-white" , 
+        "title" : "Bảo Vệ Môi Trường" , 
+        "description" : "Chúng tôi yêu thiên nhiên và cam kết vào hoạt động bảo tồn sự đa dạng sinh học của môi trường tự nhiên. Loại bỏ rác thải nhựa trong suốt chuyến đi và cùng giúp du khách nâng cao nhận thức BẢO VỆ MÔI TRƯỜNG."
+    } ,
+
+    {
+        "icon" : "far fa-gem fa-3x text-white" , 
+        "title" : "Dịch Vụ Đẳng Cấp" , 
+        "description" : "Thiết kế các bữa ăn đầy dinh dưỡng, đầu bếp phục vụ trên tour, hệ thống nơi lưu trú, nhà vệ sinh thân thiện tại mỗi điểm đến, hướng dẫn viên du có 4 năm kinh nghiệm."
+    } 
+
+    
+]

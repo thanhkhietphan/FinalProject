@@ -1,0 +1,52 @@
+[
+    {
+        "icon" : "fa-solid fa-campground fa-3x text-primary mb-4" , 
+        "title" : "Cắm trại - Dã ngoại" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+
+    {
+        "icon" : "fa fa-3x fas fa-glass-cheers text-primary mb-4" , 
+        "title" : "Sự Kiện/Team building" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+
+    {
+        "icon" : "fa fa-3x fa-user text-primary mb-4" , 
+        "title" : "Hướng dẫn viên du lịch" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+
+    {
+        "icon" : "fa-solid fa-utensils fa-3x text-primary mb-4" , 
+        "title" : "Ăn Uống" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+
+    {
+        "icon" : "fa-solid fa-retweet fa-3x text-primary mb-4" , 
+        "title" : "Đồ cho thuê" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+
+    {
+        "icon" : "fa-solid fa-person-hiking fa-3x text-primary mb-4" , 
+        "title" : "Tour Trải nghiệm" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+
+    {
+        "icon" : "fa-solid fa-person-shelter fa-3x text-primary mb-4" , 
+        "title" : "Tour cá nhân" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } , 
+    
+    {
+        "icon" : "fa-solid fa-tree fa-3x text-primary mb-4" , 
+        "title" : "Trồng cây xanh" , 
+        "description" : "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam" 
+    } 
+    
+
+
+]

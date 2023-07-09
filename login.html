@@ -1,0 +1,64 @@
+<html>
+
+<head>
+    <title>Stylish Login And Sign Up Form</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Incognito">
+    <meta name="description" content="Stylized Login and Signup Form">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/login.css">
+
+<body>
+    <main class="wrapper">
+        <section class="form">
+            <section class="form-header">
+                <button id="btn-login" class="btn-login">Login</button>
+                <button id="btn-signup" class="btn-signup">Sign Up</button>
+            </section>
+
+            <section id="form-body" class="form-body">
+                <section id="login-container" class="login-container">
+                    <section class="logo-container">
+                        <aside class="logo"></aside>
+                    </section>
+                    <p class="login-title">Account Login</p>
+                    <input id="eLogin" type="email" placeholder="Email" />
+                    <input id="pLogin" type="password" placeholder="Password" />
+                    <button onclick="login()" class="btn-submit">Login</button>
+                </section>
+
+                <section id="signup-container" class="signup-container">
+                    <section class="logo-container">
+                        <aside class="logo"></aside>
+                    </section>
+
+                    <p class="signup-title">Register Account</p>
+
+                    <input type="text" id="uSignUp" class="txtbox-firstname" placeholder="First Name" />
+                    <input type="text" class="txtbox-lastname" placeholder="Last Name" />
+                    <input id="eSignUp" type="email" placeholder="Email" />
+                    <input id="pSignUp" type="password" placeholder="Password" />
+                    <input id="rSignUp" type="password" placeholder="Repeat Password" />
+                    <button onclick="register()" class="btn-register">Register</button>
+                </section>
+            </section>
+
+        </section>
+    </main>
+
+
+    <script src="js/login.js"></script>
+
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+    <script src="./js/registerAuthen.js"></script>
+</body>
+
+
+</html>

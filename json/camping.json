@@ -1,0 +1,29 @@
+[
+    {
+        "image" : "img/package-1.jpg" ,
+        "contry" : "Đà Lạt" , 
+        "day" : "3 ngày" ,
+        "quantity" : "2 Person" ,
+        "price" : "2.984.000vnd" ,
+        "description" : "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos" 
+    } ,
+
+    {
+        "image" : "img/package-2.jpg" ,
+        "contry" : "Hồ Cốc" , 
+        "day" : "2 ngày" ,
+        "quantity" : "2 Person" ,
+        "price" : "2.500.000vnd" ,
+        "description" : "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos" 
+    } ,
+    
+    {
+        "image" : "img/package-3.jpg" ,
+        "contry" : "Hồ Tà Đùng" , 
+        "day" : "3 ngày" ,
+        "quantity" : "2 Person" ,
+        "price" : "3.495.000vnd" ,
+        "description" : "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos" 
+    } 
+    
+]
